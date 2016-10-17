@@ -64,6 +64,7 @@ public class FileDotView extends LinearLayout {
 //        soundPoolMap.put(0, soundPool.load(mContext, R.raw.click_0, 1));
 //        soundPoolMap.put(1, soundPool.load(mContext, R.raw.click_1, 2));
 //        soundPoolMap.put(2, soundPool.load(mContext, R.raw.click_2, 3));
+        //shui jiao 
     }
 
     private void initStatus() {
